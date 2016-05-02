@@ -1,0 +1,16 @@
+org\jbltd\destro\prefs\listeners\ChatListener.class
+org\jbltd\destro\prefs\listeners\KnockbackListener.class
+org\jbltd\destro\prefs\commands\PrefsCommand.class
+org\jbltd\destro\prefs\commands\ChatslowCommand.class
+org\jbltd\destro\prefs\commands\GadgetCommand.class
+org\jbltd\destro\prefs\commands\ReplyCommand.class
+org\jbltd\destro\prefs\listeners\JoinListener.class
+org\jbltd\destro\prefs\gui\PrefsGUI.class
+org\jbltd\destro\prefs\listeners\Forcefield.class
+org\jbltd\destro\prefs\Main.class
+org\jbltd\destro\prefs\listeners\ChatListener$1.class
+org\jbltd\destro\prefs\commands\SilenceCommand.class
+org\jbltd\destro\prefs\commands\MessageCommand.class
+org\jbltd\destro\prefs\listeners\Forcefield$1.class
+org\jbltd\destro\prefs\util\Preference.class
+org\jbltd\destro\prefs\util\PreferenceManager.class

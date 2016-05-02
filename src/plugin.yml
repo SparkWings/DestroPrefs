@@ -1,0 +1,16 @@
+name: AdvancedPrefsGUI
+main: org.jbltd.destro.prefs.Main
+version: 1.0
+author: SparkWings
+
+commands:
+    silence:
+    preferences:
+        aliases: [preferences,preference,prefs]
+    message:
+        aliases: [message,m,tell,msg,w,whisper]
+    reply:
+        aliases: [reply, r]
+    chatslow:
+    gadget:
+        aliases: [gadget,gadgets]
